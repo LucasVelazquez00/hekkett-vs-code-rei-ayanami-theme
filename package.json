@@ -1,0 +1,32 @@
+{
+  "name": "rei-ayanami-hekkett-theme",
+  "displayName": "Rei Ayanami - Hekkett theme",
+  "description": "Dark theme with colors like Rei Ayanami 00",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rei Ayanami - Hekkett theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rei Ayanami - Hekkett theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/icon.png",
+  "author": {
+    "name": "Lucas Velazquez",
+    "email": "velazquez.lucass.99@gmail.com",
+    "url": "https://www.linkedin.com/in/lucas-velazquez-/"
+  },
+  "repository": {
+    "url": "https://github.com/LucasVelazquez00/hekkett-vs-code-rei-ayanami-theme.git",
+    "type": "git"
+  },
+  "publisher": "hekkett-code"
+}
